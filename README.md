@@ -1,4 +1,4 @@
-# DIY 3D Printer by [Privt](https://www.youtube.com/@privt22]
+# DIY 3D Printer by [Privt](https://www.youtube.com/@privt22)
 
 ## Check out the series on YouTube:
 
