@@ -1,0 +1,3 @@
+[submodule "rp_2040_extruder_board"]
+	path = rp_2040_extruder_board
+	url = https://github.com/privt00/rp2040-extruder.git
